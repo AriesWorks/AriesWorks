@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AriesWorks
+- 👋 Hi, I’m @SoloMods
 - 👀 I’m interested in Car development
 - 🌱 I’m currently learning Lua
 - 📫 How to reach me on discord ariesworks
